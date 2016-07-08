@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{AA97D5AB-7FFF-4378-9631-025779E4BE81}"
+	ProjectSection(SolutionItems) = preProject
+		Example\LUT-Processor.pdf = Example\LUT-Processor.pdf
+		Example\LUT-SilovoiBlok.pdf = Example\LUT-SilovoiBlok.pdf
+		Example\wash458.txt = Example\wash458.txt
+		Example\wash458a.c = Example\wash458a.c
+		Example\wash458b.c = Example\wash458b.c
+		Example\wash458c.c = Example\wash458c.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Motor Control", "Motor Control", "{A3D7E46C-2F46-4935-8083-002777C686C3}"
+	ProjectSection(SolutionItems) = preProject
+		Example\MotorControl\tda1085_02plus.jpg = Example\MotorControl\tda1085_02plus.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3D7E46C-2F46-4935-8083-002777C686C3} = {AA97D5AB-7FFF-4378-9631-025779E4BE81}
+	EndGlobalSection
+EndGlobal
